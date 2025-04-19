@@ -1,0 +1,683 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\application\\abstraction\\servicesconcretes\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|solutionrelative:application\\abstraction\\servicesconcretes\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\application\\abstraction\\servicesconcretes\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|solutionrelative:application\\abstraction\\servicesconcretes\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\application\\abstraction\\services\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|solutionrelative:application\\abstraction\\services\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46BC7F0-2C98-474A-A78D-471A67804129}|EduHackAPI\\EduHackAPI.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\eduhackapi\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46BC7F0-2C98-474A-A78D-471A67804129}|EduHackAPI\\EduHackAPI.csproj|solutionrelative:eduhackapi\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46BC7F0-2C98-474A-A78D-471A67804129}|EduHackAPI\\EduHackAPI.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\eduhackapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46BC7F0-2C98-474A-A78D-471A67804129}|EduHackAPI\\EduHackAPI.csproj|solutionrelative:eduhackapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|solutionrelative:application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\application\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|solutionrelative:application\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\application\\abstraction\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|solutionrelative:application\\abstraction\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46BC7F0-2C98-474A-A78D-471A67804129}|EduHackAPI\\EduHackAPI.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\eduhackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46BC7F0-2C98-474A-A78D-471A67804129}|EduHackAPI\\EduHackAPI.csproj|solutionrelative:eduhackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\application\\dtos\\topicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|solutionrelative:application\\dtos\\topicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\application\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|solutionrelative:application\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\application\\abstraction\\servicesconcretes\\topicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|solutionrelative:application\\abstraction\\servicesconcretes\\topicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\application\\abstraction\\servicesconcretes\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|solutionrelative:application\\abstraction\\servicesconcretes\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\application\\abstraction\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|solutionrelative:application\\abstraction\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\application\\abstraction\\services\\itopicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|solutionrelative:application\\abstraction\\services\\itopicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F125D23B-2FB2-4618-A6CB-D4986E1431C0}|Persistance\\Persistance.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\persistance\\concretes\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F125D23B-2FB2-4618-A6CB-D4986E1431C0}|Persistance\\Persistance.csproj|solutionrelative:persistance\\concretes\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F125D23B-2FB2-4618-A6CB-D4986E1431C0}|Persistance\\Persistance.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\persistance\\concretes\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F125D23B-2FB2-4618-A6CB-D4986E1431C0}|Persistance\\Persistance.csproj|solutionrelative:persistance\\concretes\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F125D23B-2FB2-4618-A6CB-D4986E1431C0}|Persistance\\Persistance.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\persistance\\concretes\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F125D23B-2FB2-4618-A6CB-D4986E1431C0}|Persistance\\Persistance.csproj|solutionrelative:persistance\\concretes\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\application\\abstraction\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|solutionrelative:application\\abstraction\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46BC7F0-2C98-474A-A78D-471A67804129}|EduHackAPI\\EduHackAPI.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\eduhackapi\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46BC7F0-2C98-474A-A78D-471A67804129}|EduHackAPI\\EduHackAPI.csproj|solutionrelative:eduhackapi\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F125D23B-2FB2-4618-A6CB-D4986E1431C0}|Persistance\\Persistance.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\persistance\\concretes\\topicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F125D23B-2FB2-4618-A6CB-D4986E1431C0}|Persistance\\Persistance.csproj|solutionrelative:persistance\\concretes\\topicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F125D23B-2FB2-4618-A6CB-D4986E1431C0}|Persistance\\Persistance.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\persistance\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F125D23B-2FB2-4618-A6CB-D4986E1431C0}|Persistance\\Persistance.csproj|solutionrelative:persistance\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46BC7F0-2C98-474A-A78D-471A67804129}|EduHackAPI\\EduHackAPI.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\eduhackapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46BC7F0-2C98-474A-A78D-471A67804129}|EduHackAPI\\EduHackAPI.csproj|solutionrelative:eduhackapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\application\\abstraction\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|solutionrelative:application\\abstraction\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\application\\abstraction\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|solutionrelative:application\\abstraction\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\application\\abstraction\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|solutionrelative:application\\abstraction\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F125D23B-2FB2-4618-A6CB-D4986E1431C0}|Persistance\\Persistance.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\persistance\\migrations\\20250419114112_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F125D23B-2FB2-4618-A6CB-D4986E1431C0}|Persistance\\Persistance.csproj|solutionrelative:persistance\\migrations\\20250419114112_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46BC7F0-2C98-474A-A78D-471A67804129}|EduHackAPI\\EduHackAPI.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\eduhackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F46BC7F0-2C98-474A-A78D-471A67804129}|EduHackAPI\\EduHackAPI.csproj|solutionrelative:eduhackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F125D23B-2FB2-4618-A6CB-D4986E1431C0}|Persistance\\Persistance.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\persistance\\context\\eduhackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F125D23B-2FB2-4618-A6CB-D4986E1431C0}|Persistance\\Persistance.csproj|solutionrelative:persistance\\context\\eduhackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|solutionrelative:application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D61601-AB0E-4215-984F-744AC9B4D17E}|Domain\\Domain.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\domain\\models\\courese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D61601-AB0E-4215-984F-744AC9B4D17E}|Domain\\Domain.csproj|solutionrelative:domain\\models\\courese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D61601-AB0E-4215-984F-744AC9B4D17E}|Domain\\Domain.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36D61601-AB0E-4215-984F-744AC9B4D17E}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D61601-AB0E-4215-984F-744AC9B4D17E}|Domain\\Domain.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\domain\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D61601-AB0E-4215-984F-744AC9B4D17E}|Domain\\Domain.csproj|solutionrelative:domain\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D61601-AB0E-4215-984F-744AC9B4D17E}|Domain\\Domain.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D61601-AB0E-4215-984F-744AC9B4D17E}|Domain\\Domain.csproj|solutionrelative:domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D61601-AB0E-4215-984F-744AC9B4D17E}|Domain\\Domain.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\domain\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D61601-AB0E-4215-984F-744AC9B4D17E}|Domain\\Domain.csproj|solutionrelative:domain\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D61601-AB0E-4215-984F-744AC9B4D17E}|Domain\\Domain.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D61601-AB0E-4215-984F-744AC9B4D17E}|Domain\\Domain.csproj|solutionrelative:domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F125D23B-2FB2-4618-A6CB-D4986E1431C0}|Persistance\\Persistance.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\persistance\\persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F125D23B-2FB2-4618-A6CB-D4986E1431C0}|Persistance\\Persistance.csproj|solutionrelative:persistance\\persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B2AE42B-8CAA-43C1-B955-8E32B475D39F}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46BC7F0-2C98-474A-A78D-471A67804129}|EduHackAPI\\EduHackAPI.csproj|c:\\users\\abbas\\documents\\c#\\eduhack\\eduhackapi\\eduhackapi\\eduhackapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F46BC7F0-2C98-474A-A78D-471A67804129}|EduHackAPI\\EduHackAPI.csproj|solutionrelative:eduhackapi\\eduhackapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherDTO.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\DTOs\\TeacherDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\TeacherDTO.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\DTOs\\TeacherDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\TeacherDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:22:44.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\ServicesConcretes\\TeacherService.cs",
+              "RelativeDocumentMoniker": "Application\\Abstraction\\ServicesConcretes\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\ServicesConcretes\\TeacherService.cs",
+              "RelativeToolTip": "Application\\Abstraction\\ServicesConcretes\\TeacherService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:42:45.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\EduHackAPI\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "EduHackAPI\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\EduHackAPI\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "EduHackAPI\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwC4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:47:34.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:54:12.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\EduHackAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "EduHackAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\EduHackAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "EduHackAPI\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:48:12.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\ServicesConcretes\\StudentService.cs",
+              "RelativeDocumentMoniker": "Application\\Abstraction\\ServicesConcretes\\StudentService.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\ServicesConcretes\\StudentService.cs",
+              "RelativeToolTip": "Application\\Abstraction\\ServicesConcretes\\StudentService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwFsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:37:36.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\Services\\ITeacherService.cs",
+              "RelativeDocumentMoniker": "Application\\Abstraction\\Services\\ITeacherService.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\Services\\ITeacherService.cs",
+              "RelativeToolTip": "Application\\Abstraction\\Services\\ITeacherService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:55:32.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Application\\Abstraction\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\Services\\IStudentService.cs",
+              "RelativeToolTip": "Application\\Abstraction\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:55:48.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\EduHackAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EduHackAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\EduHackAPI\\Program.cs",
+              "RelativeToolTip": "EduHackAPI\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAewCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:56:44.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TopicDTO.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\DTOs\\TopicDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\TopicDTO.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\DTOs\\TopicDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\TopicDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:54:44.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\DTOs\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CourseDTO.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\DTOs\\CourseDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\CourseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:54:31.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TopicService.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\ServicesConcretes\\TopicService.cs",
+              "RelativeDocumentMoniker": "Application\\Abstraction\\ServicesConcretes\\TopicService.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\ServicesConcretes\\TopicService.cs",
+              "RelativeToolTip": "Application\\Abstraction\\ServicesConcretes\\TopicService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv0wAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:51:30.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\ServicesConcretes\\CourseService.cs",
+              "RelativeDocumentMoniker": "Application\\Abstraction\\ServicesConcretes\\CourseService.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\ServicesConcretes\\CourseService.cs",
+              "RelativeToolTip": "Application\\Abstraction\\ServicesConcretes\\CourseService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAswFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:37:59.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "Application\\Abstraction\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\Services\\IService.cs",
+              "RelativeToolTip": "Application\\Abstraction\\Services\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:55:09.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITopicService.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\Services\\ITopicService.cs",
+              "RelativeDocumentMoniker": "Application\\Abstraction\\Services\\ITopicService.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\Services\\ITopicService.cs",
+              "RelativeToolTip": "Application\\Abstraction\\Services\\ITopicService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:56:17.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Persistance\\Concretes\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Persistance\\Concretes\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Persistance\\Concretes\\StudentRepository.cs",
+              "RelativeToolTip": "Persistance\\Concretes\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:52:49.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Persistance\\Concretes\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "Persistance\\Concretes\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Persistance\\Concretes\\TeacherRepository.cs",
+              "RelativeToolTip": "Persistance\\Concretes\\TeacherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:52:33.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Persistance\\Concretes\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Persistance\\Concretes\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Persistance\\Concretes\\CourseRepository.cs",
+              "RelativeToolTip": "Persistance\\Concretes\\CourseRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:53:25.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\Services\\ICourseService.cs",
+              "RelativeDocumentMoniker": "Application\\Abstraction\\Services\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\Services\\ICourseService.cs",
+              "RelativeToolTip": "Application\\Abstraction\\Services\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:56:02.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TopicController.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\EduHackAPI\\Controllers\\TopicController.cs",
+              "RelativeDocumentMoniker": "EduHackAPI\\Controllers\\TopicController.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\EduHackAPI\\Controllers\\TopicController.cs",
+              "RelativeToolTip": "EduHackAPI\\Controllers\\TopicController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:51:57.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TopicRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Persistance\\Concretes\\TopicRepository.cs",
+              "RelativeDocumentMoniker": "Persistance\\Concretes\\TopicRepository.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Persistance\\Concretes\\TopicRepository.cs",
+              "RelativeToolTip": "Persistance\\Concretes\\TopicRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:50:55.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\EduHackAPI\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "EduHackAPI\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\EduHackAPI\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "EduHackAPI\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:48:31.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Persistance\\Concretes\\Repository.cs",
+              "RelativeDocumentMoniker": "Persistance\\Concretes\\Repository.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Persistance\\Concretes\\Repository.cs",
+              "RelativeToolTip": "Persistance\\Concretes\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:18:01.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Abstraction\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Application\\Abstraction\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:13:29.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\Repositories\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Abstraction\\Repositories\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\Repositories\\IReadRepository.cs",
+              "RelativeToolTip": "Application\\Abstraction\\Repositories\\IReadRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:13:51.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\Repositories\\IWriteRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Abstraction\\Repositories\\IWriteRepository.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Abstraction\\Repositories\\IWriteRepository.cs",
+              "RelativeToolTip": "Application\\Abstraction\\Repositories\\IWriteRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:14:04.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250419114112_Init.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Persistance\\Migrations\\20250419114112_Init.cs",
+              "RelativeDocumentMoniker": "Persistance\\Migrations\\20250419114112_Init.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Persistance\\Migrations\\20250419114112_Init.cs",
+              "RelativeToolTip": "Persistance\\Migrations\\20250419114112_Init.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:41:12.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\EduHackAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EduHackAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\EduHackAPI\\appsettings.json",
+              "RelativeToolTip": "EduHackAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-19T11:26:43.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EduHackDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Persistance\\Context\\EduHackDbContext.cs",
+              "RelativeDocumentMoniker": "Persistance\\Context\\EduHackDbContext.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Persistance\\Context\\EduHackDbContext.cs",
+              "RelativeToolTip": "Persistance\\Context\\EduHackDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:20:31.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Courese.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Domain\\Models\\Courese.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Courese.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Domain\\Models\\Courese.cs",
+              "RelativeToolTip": "Domain\\Models\\Courese.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:52:08.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Domain\\Models\\Topic.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Topic.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Domain\\Models\\Topic.cs",
+              "RelativeToolTip": "Domain\\Models\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:25:36.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Domain\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Domain\\Models\\Student.cs",
+              "RelativeToolTip": "Domain\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:51:46.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:55:46.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Domain\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Domain\\Models\\Teacher.cs",
+              "RelativeToolTip": "Domain\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:51:22.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Domain\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Domain\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:03:19.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-19T08:09:58.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-19T08:10:02.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EduHackAPI",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\EduHackAPI\\EduHackAPI.csproj",
+              "RelativeDocumentMoniker": "EduHackAPI\\EduHackAPI.csproj",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\EduHackAPI\\EduHackAPI.csproj",
+              "RelativeToolTip": "EduHackAPI\\EduHackAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-19T08:02:21.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Persistance",
+              "DocumentMoniker": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Persistance\\Persistance.csproj",
+              "RelativeDocumentMoniker": "Persistance\\Persistance.csproj",
+              "ToolTip": "C:\\Users\\abbas\\Documents\\C#\\EduHack\\EduHackAPI\\Persistance\\Persistance.csproj",
+              "RelativeToolTip": "Persistance\\Persistance.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-19T08:01:48.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
