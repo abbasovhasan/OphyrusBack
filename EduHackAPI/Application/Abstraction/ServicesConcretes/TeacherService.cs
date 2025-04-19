@@ -17,13 +17,16 @@ public class TeacherService : ITeacherService
         _mapper = mapper;
     }
 
-    public async Task AddTeacherAsync(CreateTeacherDTO createTeacherDTO)
+    public async Task<Guid> AddTeacherAsync(CreateTeacherDTO createTeacherDTO)
     {
         var teacher = _mapper.Map<Teacher>(createTeacherDTO); // DTO'dan Teacher modeline dönüştür
+
+        teacher.Id = Guid.NewGuid(); // Yeni bir ID oluştur
+
         await _teacherRepository.AddAsync(teacher); // Öğretmeni veritabanına ekle
 
-        // Veritabanına eklenen öğretmeni almak
-        var addedTeacher = await _teacherRepository.GetByIdAsync(teacher.Id); // ID'yi al
+        return teacher.Id; // Yeni oluşturulan öğretmenin ID'sini döndür
+
     }
 
     // Tüm öğretmenleri listele

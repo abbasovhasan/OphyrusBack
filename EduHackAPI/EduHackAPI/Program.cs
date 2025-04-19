@@ -1,7 +1,6 @@
 using Application.Abstraction.Repositories;
 using Application.Abstraction.Services;
 using Application.Mapping;
-using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using Persistance.Concretes;
 using Persistance.Context;
@@ -49,8 +48,6 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
-
-app.MapGet("/", () => "Hello World!");
 
 // Uygulaman?n çal??mas?n? ba?lat?yoruz
 app.Run();

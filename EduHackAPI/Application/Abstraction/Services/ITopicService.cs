@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Application.Abstraction.Services
 {
-    public interface ITopicService : IService<Topic>
+    public interface ITopicService 
     {
         Task<IEnumerable<TopicDTO>> GetAllTopicsAsync();
         Task<TopicDTO> GetTopicByIdAsync(Guid id);

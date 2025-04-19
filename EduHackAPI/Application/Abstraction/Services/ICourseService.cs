@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Application.Abstraction.Services
 {
-    public interface ICourseService : IService<Course>
+    public interface ICourseService 
     {
         Task<IEnumerable<CourseDTO>> GetAllCoursesAsync();
         Task<CourseDTO> GetCourseByIdAsync(Guid id);

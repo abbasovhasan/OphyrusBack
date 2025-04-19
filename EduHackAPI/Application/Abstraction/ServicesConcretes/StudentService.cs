@@ -30,11 +30,6 @@ public class StudentService : IStudentService
         return _mapper.Map<StudentDTO>(student); // Öğrenciyi DTO'ya dönüştür
     }
 
-    // Fixing the CS1997 error by removing the invalid return statement in the AddStudentAsync method
-    public async Task<Student> AddStudentAsync(CreateStudentDTO createStudentDTO)
-    {
-
-    }
     // Öğrenci güncelle
     public async Task UpdateStudentAsync(Guid id, CreateStudentDTO updateStudentDTO)
     {
@@ -89,12 +84,15 @@ public class StudentService : IStudentService
         await _studentRepository.DeleteAsync(entity); // Öğrenciyi veritabanından sil
     }
 
-     public async Task IStudentService.AddStudentAsync(CreateStudentDTO createStudentDTO)
+    public Task<Guid> AddStudentAsync(CreateStudentDTO createStudentDTO)
     {
         var student = _mapper.Map<Student>(createStudentDTO); // DTO'dan Student modeline dönüştür
-        await _studentRepository.AddAsync(student); // Öğrenciyi veritabanına ekle
 
-        // Öğrencinin ID'sini veritabanından al
-        var addedStudent = await _studentRepository.GetByIdAsync(student.Id);
+        student.Id = Guid.NewGuid(); // Yeni bir ID oluştur
+
+        _studentRepository.AddAsync(student); // Öğrenciyi veritabanına ekle
+
+        return Task.FromResult(student.Id); // Yeni oluşturulan öğrencinin ID'sini döndür
+
     }
 }

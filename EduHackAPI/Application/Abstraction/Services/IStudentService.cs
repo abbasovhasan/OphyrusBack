@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Application.Abstraction.Services
 {
-    public interface IStudentService : IService<Student>
+    public interface IStudentService 
     {
         Task<IEnumerable<StudentDTO>> GetAllStudentsAsync();
         Task<StudentDTO> GetStudentByIdAsync(Guid id);
-        Task AddStudentAsync(CreateStudentDTO createStudentDTO);
+        Task<Guid> AddStudentAsync(CreateStudentDTO createStudentDTO);
         Task UpdateStudentAsync(Guid id, CreateStudentDTO updateStudentDTO);
         Task DeleteStudentAsync(Guid id);
     }

@@ -38,13 +38,11 @@ public class TeacherController : ControllerBase
     public async Task<ActionResult> AddTeacher(CreateTeacherDTO createTeacherDTO)
     {
         // Yeni öğretmeni ekliyoruz
-        await _teacherService.AddTeacherAsync(createTeacherDTO);
+        Guid Id = await _teacherService.AddTeacherAsync(createTeacherDTO);
 
-        // Öğretmeni veritabanından alıp ID'yi döndürüyoruz
-        var teacher = await _teacherService.GetTeacherByIdAsync(createTeacherDTO.Id);
 
         // Öğretmen başarıyla oluşturulduysa, 201 Created döndür
-        return CreatedAtAction(nameof(GetTeacherById), new { id = teacher.Id }, teacher);
+        return CreatedAtAction(nameof(GetTeacherById), new { id = Id });
     }
     // Öğretmeni güncelle
     [HttpPut("{id}")]

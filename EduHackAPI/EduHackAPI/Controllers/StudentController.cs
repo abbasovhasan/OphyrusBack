@@ -32,16 +32,6 @@ public class StudentController : ControllerBase
         return Ok(student); // Öğrenciyi başarılı bir şekilde döndür
     }
 
-    // Yeni öğrenci ekle
-    [HttpPost]
-    public async Task<ActionResult> AddStudent(CreateStudentDTO createStudentDTO)
-    {
-        // Öğrenciyi ekliyoruz ve sonucu alıyoruz
-        var student = await _studentService.AddStudentAsync(createStudentDTO);
-
-        // Öğrenci başarıyla oluşturulduysa, 201 Created döndür
-        return CreatedAtAction(nameof(GetStudentById), new { id = student.Id }, student);
-    }
     // Öğrenciyi güncelle
     [HttpPut("{id}")]
     public async Task<ActionResult> UpdateStudent(Guid id, CreateStudentDTO updateStudentDTO)
@@ -56,5 +46,13 @@ public class StudentController : ControllerBase
     {
         await _studentService.DeleteStudentAsync(id); // Servise öğrenci silme işlemi için çağrı yap
         return NoContent(); // Öğrenci başarıyla silindi, 204 döndür
+    }
+
+    [HttpPost]
+    public async Task<ActionResult> AddStudent(CreateStudentDTO createStudentDTO)
+    {
+        Guid Id = await _studentService.AddStudentAsync(createStudentDTO); // Servise yeni öğrenci ekleme işlemi için çağrı yap
+
+        return CreatedAtAction(nameof(GetStudentById), new { id = Id }); // Yeni öğrenci başarıyla eklendi, 201 döndür
     }
 }
